@@ -19,10 +19,20 @@ It allows you to add, list, update, delete, and search products using a Swing-ba
 
 ---
 
+## 🖼️ Preview
+
+Here’s a preview of the application’s main menu:
+
+![Menu Preview](assets/menu-preview.png)
+
+---
+
 ## 📂 Project Structure
 
 ```bash
 mini-store-jdbc/
+├── assets/
+│   └── menu-preview.png
 ├── src/
 │   ├── main/
 │   │   ├── java/

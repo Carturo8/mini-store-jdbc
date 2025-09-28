@@ -19,10 +19,20 @@ Permite agregar, listar, actualizar, eliminar y buscar productos mediante una in
 
 ---
 
+## 🖼️ Vista previa
+
+Aquí tienes una vista previa del menú principal de la aplicación:
+
+![Menu Preview](assets/menu-preview.png)
+
+---
+
 ## 📂 Estructura del Proyecto
 
 ```bash
 mini-store-jdbc/
+├── assets/
+│   └── menu-preview.png
 ├── src/
 │   ├── main/
 │   │   ├── java/
