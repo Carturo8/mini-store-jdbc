@@ -23,7 +23,7 @@ Permite agregar, listar, actualizar, eliminar y buscar productos mediante una in
 
 Aquí tienes una vista previa del menú principal de la aplicación:
 
-![Menu Preview](assets/menu-preview.png)
+![Vista Previa Menú](assets/menu-preview.png)
 
 ---
 
