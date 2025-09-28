@@ -1,4 +1,4 @@
-package org.example.database;
+package org.carturo.ministore.database;
 
 import javax.swing.*;
 import java.io.InputStream;
